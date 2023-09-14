@@ -3,7 +3,7 @@ body {
 	display: flex;
   justify-content: center;
   margin-top:none;
-  margin-bottom:30px;
+  
 }
 
 .myDiv {
@@ -37,7 +37,7 @@ body {
 }
 .post-icons{
   justify-content:space-between;
-    align-items:center;
+  align-items:center;
   display:flex;
 }
 
@@ -75,5 +75,14 @@ h1{
 h1 {
   background-color:white;
   width:100%;
+  margin-left:0px;
+  margin-right:0px;
+  display:flex;
+}
+.myDiv-4 {
+	width: 500px;
+  height:600px;
+	background-color: white;
   
 }
+
